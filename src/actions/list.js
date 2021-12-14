@@ -1,4 +1,4 @@
-const url = 'http://gurkha-vc-profile-api.herokuapp.com/api/';
+const url = 'https://gurkha-vc-profile-api.herokuapp.com/api/';
 
 export const fetchLists = () => async(dispatch) => {
     try {
